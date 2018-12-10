@@ -1,6 +1,6 @@
 # Posters (undergraduate projects)
 Some of the undergraduate student posters from their summer research experience. 
-Other copies can be found at <www.reisanar.com>
+Other copies can be found at https://www.reisanar.com
 
 Former students: 
 1. Eliana Espinosa
