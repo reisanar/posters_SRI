@@ -13,3 +13,6 @@ Former students:
 6. Acxel Vega
 7. Maudeline Deus
 8. Kevin Osorio
+
+
+$$\pi$$ ::smile::
